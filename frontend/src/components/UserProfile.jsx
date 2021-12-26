@@ -52,10 +52,11 @@ const UserProfile = () => {
     }
   }, [text, userId]);
 
-  // For logout
+  // logout method
   const logout = () => {
     localStorage.clear();
-    navigate("/login", { replace: true });
+
+    navigate("/login");
   };
 
   if (!user) return <Spinner message="Loading profile" />;
@@ -111,7 +112,7 @@ const UserProfile = () => {
             <button
               type="button"
               onClick={(e) => {
-                setText(e.target.textContext);
+                setText(e.target.textContent);
                 setActiveBtn("created");
               }}
               className={`${
@@ -123,7 +124,7 @@ const UserProfile = () => {
             <button
               type="button"
               onClick={(e) => {
-                setText(e.target.textContext);
+                setText(e.target.textContent);
                 setActiveBtn("saved");
               }}
               className={`${
