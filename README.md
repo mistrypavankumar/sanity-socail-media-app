@@ -160,7 +160,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Mistry Pavan Kumar  - [@twitter_handle](https://twitter.com/twitter_handle) - pavansharma.mg143@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
