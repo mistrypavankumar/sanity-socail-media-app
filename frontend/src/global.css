@@ -17,6 +17,14 @@
   .onGroupHover{
     @apply text-gray-100 opacity-50 group-hover:text-lightGray group-hover:opacity-100 ;
   }
+
+  .blueBtnWithScaleEffect{
+    @apply bg-primaryBlue opacity-75 hover:opacity-100 transition-all duration-500 hover:scale-105 text-white font-bold p-2 rounded-lg w-28 outline-none
+  }
+
+  .blueBtnWithSlideText{
+    @apply bg-primaryBlue w-10 h-10 md:hover:w-32 flex justify-around items-center  p-2 rounded-full cursor-pointer outline-none shadow-md overflow-hidden transition-all duration-300
+  }
 }
   
   /* Hide scrollbar for Chrome, Safari and Opera */
