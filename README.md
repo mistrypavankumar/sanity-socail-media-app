@@ -179,7 +179,7 @@ Project Link: [https://github.com/mg143pavankumar/sanity-socail-media-app](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/mg143pavankumar/repo.svg?style=flat-square
 [contributors-url]: https://github.com/mg143pavankumar/repo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/mg143pavankumar/repo.svg?style=flat-square
 [forks-url]: https://github.com/mg143pavankumar/repo/network/members
