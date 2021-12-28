@@ -20,7 +20,7 @@ const CreatePin = ({ user }) => {
   const [wrongImageType, setWrongImageType] = useState(false);
 
   const textFieldStyles =
-    "outline-none text-base sm:text-lg border-b-2 border-gray-200 p-2";
+    "outline-none text-base sm:text-lg bg-transparent border-b-2 border-gray-500 p-2 text-gray-400";
 
   const uploadImage = (e) => {
     const selectedFile = e.target.files[0];
@@ -96,9 +96,9 @@ const CreatePin = ({ user }) => {
         </p>
       )}
 
-      <div className="flex lg:flex-row flex-col justify-center items-center bg-white lg:p-5 p-3 lg:w-4/5 w-full">
-        <div className="bg-secondaryColor p-3 flex flex-0.7 w-full">
-          <div className="flex justify-center items-center flex-col border-2 border-dotted border-gray-300 p-3 w-full h-420">
+      <div className="flex lg:flex-row flex-col justify-center items-center bg-secondaryColor rounded-lg lg:p-5 p-3 lg:w-4/5 w-full">
+        <div className="bg-secondaryColor2 rounded-lg p-3 flex flex-0.7 w-full">
+          <div className="flex justify-center items-center flex-col border-2 rounded-lg border-dotted border-gray-300 p-3 w-full h-420">
             {loading && <Spinner />}{" "}
             {wrongImageType && (
               <p className="text-gray-500">It&apos;s wrong file type...</p>
@@ -151,18 +151,18 @@ const CreatePin = ({ user }) => {
           <input
             type="text"
             placeholder="Add your title"
-            className="outline-none text-2xl sm:text-3xl font-bold border-b-2 border-gray-200 p-2"
+            className="outline-none text-2xl sm:text-3xl font-bold border-b-2 bg-transparent border-gray-500 text-gray-400 p-2"
             value={title}
             onChange={(e) => setTitle(e.target.value)}
           />
           {user && (
-            <div className="flex gap-2 mt-2 mb-2 items-center bg-white rounded-lg">
+            <div className="flex gap-2 mt-2 mb-2 items-center bg-secondaryColor2 rounded-lg">
               <img
                 src={user?.image}
                 alt="user-img"
-                className="w-10 h-10 rounded-lg"
+                className="w-10 h-10 rounded-lg shadow-lg"
               />
-              <p className="font-bold">{user?.userName}</p>
+              <p className="font-bold text-gray-400">{user?.userName}</p>
             </div>
           )}
 
@@ -184,21 +184,24 @@ const CreatePin = ({ user }) => {
 
           <div className="flex flex-col">
             <div>
-              <p className="mb-2 font-semibold text-lg sm:text-xl">
+              <p className="mb-2 text-gray-400 font-semibold text-lg sm:text-xl">
                 Choose Pin Category
               </p>
               <select
                 onChange={(e) => setCategory(e.target.value)}
-                className="outline-none w-4/5 text-base border-b-2 border-gray-200 p-2 rounded-md cursor-pointer"
+                className="outline-none w-4/5 bg-secondaryColor2 text-gray-400 border-b-0 text-base shadow-lg border-gray-200 p-2 rounded-md cursor-pointer"
               >
-                <option value="others" className="sm:text-lg bg-white">
+                <option
+                  value="others"
+                  className="sm:text-lg bg-secondaryColor2"
+                >
                   Select Category
                 </option>
                 {categories.map((item) => {
                   return (
                     <option
                       key={item.name}
-                      className="text-base border-0 outline-none capitalize bg-white text-black"
+                      className="text-base border-0 outline-none capitalize bg-secondaryColor2 text-gray-500"
                       value={item.name}
                     >
                       {item.name}
@@ -210,7 +213,7 @@ const CreatePin = ({ user }) => {
             <div className="flex justify-end items-end mt-5">
               <button
                 onClick={savePin}
-                className="bg-red-500 opacity-75 hover:opacity-100 transition-all duration-500 hover:scale-105 text-white font-bold p-2 rounded-lg w-28 outline-none"
+                className="bg-primaryBlue opacity-75 hover:opacity-100 transition-all duration-500 hover:scale-105 text-white font-bold p-2 rounded-lg w-28 outline-none"
               >
                 Save Pin
               </button>

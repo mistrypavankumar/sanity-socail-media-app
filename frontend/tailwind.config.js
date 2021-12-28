@@ -38,15 +38,25 @@ module.exports = {
         350: "350px",
         620: "620px",
       },
+      color: {
+        primaryBlue: "#3482E7",
+      },
+      borderColor: {
+        borderBlue: "#3482E7",
+      },
       textColor: {
         lightGray: "#F1EFEE",
         primary: "#FAFAFA",
+        // primary: "#1A1B1F",
+        primaryBlue: "#3482E7",
         secColor: "#efefef",
         navColor: "#BEBEBE",
       },
       backgroundColor: {
-        mainColor: "#FBF8F9",
-        secondaryColor: "#F0F0F0",
+        mainColor: "#1A1B1F",
+        primaryBlue: "#3482E7",
+        secondaryColor: "#212329",
+        secondaryColor2: "#313237",
         blackOverlay: "rgba(0, 0 ,0 ,0.7)",
       },
       keyframes: {
