@@ -12,9 +12,9 @@ import { client } from "../client";
 import MasonryLayout from "./MasonryLayout";
 
 const activeBtnStyles =
-  "bg-red-500 text-white font-bold p-2 rounded-lg w-20 outline-none";
+  "bg-primaryBlue text-white font-bold p-2 rounded-lg w-20 outline-none";
 const notActiveBtnStyles =
-  "bg-primary border-2 mr-4 text-gray-400 font-bold p-2 rounded-lg w-20 outline-none";
+  "bg-primary border-2 border-gray-600 mr-4 text-gray-500 font-bold p-2 rounded-lg w-20 outline-none";
 
 const UserProfile = () => {
   const [user, setUser] = useState();
@@ -71,14 +71,14 @@ const UserProfile = () => {
               src="https://source.unsplash.com/1600x900/?nature,photography,technology"
               alt="user-pic"
             />
-            <div className="w-50 h-50 rounded-full bg-white p-1 -mt-10 shadow-xl">
+            <div className="w-50 h-50 rounded-full bg-primaryBlue p-1 -mt-14 shadow-xl">
               <img
                 className="rounded-full object-cover"
                 src={user?.image}
                 alt="user-profile"
               />
             </div>
-            <h1 className="font-bold text-2xl text-center md:text-3xl mt-3">
+            <h1 className="font-bold text-2xl text-gray-300 text-center md:text-3xl mt-3">
               {user?.userName}
             </h1>
 
@@ -92,10 +92,10 @@ const UserProfile = () => {
                         type="button"
                         onClick={renderProps.onClick}
                         disabled={renderProps.disabled}
-                        className="bg-white w-10 h-10 md:hover:w-32 flex justify-around items-center  p-2 rounded-full cursor-pointer outline-none shadow-md overflow-hidden transition-all duration-300 logoutBtn"
+                        className="bg-primaryBlue group w-10 h-10 md:hover:w-32 flex justify-around items-center  p-2 rounded-full cursor-pointer outline-none shadow-md overflow-hidden transition-all duration-300 logoutBtn"
                       >
-                        <AiOutlineLogout color="red" fontSize={21} />
-                        <p className="onhover-show hidden text-bold text-red">
+                        <AiOutlineLogout className="text-white" fontSize={21} />
+                        <p className="hidden md:group-hover:block text-bold text-white">
                           Logout
                         </p>
                       </button>

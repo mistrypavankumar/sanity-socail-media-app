@@ -56,7 +56,7 @@ const Pin = ({ pin }) => {
   };
 
   return (
-    <div className="m-2 bg-white pb-2 rounded-lg shadow-sm hover:shadow-lg transition-all duration-300">
+    <div className="m-2 bg-secondaryColor2 hover:scale-105 pb-2 rounded-lg shadow-sm hover:shadow-lg transition-all duration-300">
       <div
         onMouseEnter={() => setPostHovered(true)}
         onMouseLeave={() => setPostHovered(false)}
@@ -143,7 +143,9 @@ const Pin = ({ pin }) => {
           alt="user-profile"
           className="w-8 h-8 rounded-full"
         />
-        <p className="font-semibold capitalize">{postedBy?.userName}</p>
+        <p className="font-semibold text-gray-400 capitalize">
+          {postedBy?.userName}
+        </p>
       </Link>
     </div>
   );
