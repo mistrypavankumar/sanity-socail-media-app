@@ -190,5 +190,5 @@ Project Link: [https://github.com/mg143pavankumar/sanity-socail-media-app](https
 [license-shield]: https://img.shields.io/github/license/mg143pavankumar/repo.svg?style=flat-square
 [license-url]: https://github.com/mg143pavankumar/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/mg143pavankumar
+[linkedin-url]: https://linkedin.com/in/mistry-pavan-kumar-5067b21b1
 [product-screenshot]: images/screenshot.png
