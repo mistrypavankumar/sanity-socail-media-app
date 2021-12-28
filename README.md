@@ -162,7 +162,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mistry Pavan Kumar  - [@twitter_handle](https://twitter.com/twitter_handle) - pavansharma.mg143@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/mg143pavankumar/sanity-socail-media-app)
+Project Link: [https://github.com/mg143pavankumar/sanity-socail-media-app](https://github.com/mg143pavankumar/sanity-socail-media-app)
 
 
 
@@ -180,15 +180,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/mg143pavankumar/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mg143pavankumar/repo.svg?style=flat-square
+[forks-url]: https://github.com/mg143pavankumar/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/mg143pavankumar/repo.svg?style=flat-square
+[stars-url]: https://github.com/mg143pavankumar/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mg143pavankumar/repo.svg?style=flat-square
+[issues-url]: https://github.com/mg143pavankumar/repo/issues
+[license-shield]: https://img.shields.io/github/license/mg143pavankumar/repo.svg?style=flat-square
+[license-url]: https://github.com/mg143pavankumar/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/mg143pavankumar
 [product-screenshot]: images/screenshot.png
