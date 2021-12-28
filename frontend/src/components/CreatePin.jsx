@@ -211,10 +211,7 @@ const CreatePin = ({ user }) => {
               </select>
             </div>
             <div className="flex justify-end items-end mt-5">
-              <button
-                onClick={savePin}
-                className="bg-primaryBlue opacity-75 hover:opacity-100 transition-all duration-500 hover:scale-105 text-white font-bold p-2 rounded-lg w-28 outline-none"
-              >
+              <button onClick={savePin} className="blueBtnWithScaleEffect">
                 Save Pin
               </button>
             </div>

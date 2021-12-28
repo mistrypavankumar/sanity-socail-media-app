@@ -92,10 +92,10 @@ const UserProfile = () => {
                         type="button"
                         onClick={renderProps.onClick}
                         disabled={renderProps.disabled}
-                        className="bg-primaryBlue group w-10 h-10 md:hover:w-32 flex justify-around items-center  p-2 rounded-full cursor-pointer outline-none shadow-md overflow-hidden transition-all duration-300 logoutBtn"
+                        className="blueBtnWithSlideText group"
                       >
                         <AiOutlineLogout className="text-white" fontSize={21} />
-                        <p className="hidden md:group-hover:block text-bold text-white">
+                        <p className="hidden md:group-hover:block text-bold translate-x-10 group-hover:translate-x-0 text-white">
                           Logout
                         </p>
                       </button>

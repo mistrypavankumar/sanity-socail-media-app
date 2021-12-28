@@ -8,6 +8,7 @@ import { AiTwotoneDelete } from "react-icons/ai";
 import { v4 as uuid4 } from "uuid";
 
 const Pin = ({ pin }) => {
+  const navigate = useNavigate();
   const { postedBy, image, _id, destination } = pin;
 
   const [postHovered, setPostHovered] = useState(false);
@@ -56,10 +57,11 @@ const Pin = ({ pin }) => {
   };
 
   return (
-    <div className="m-2 bg-secondaryColor2 hover:scale-105 pb-2 rounded-lg shadow-sm hover:shadow-lg transition-all duration-300">
+    <div className="m-2 bg-secondaryColor pb-2 md:hover:scale-105 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
       <div
         onMouseEnter={() => setPostHovered(true)}
         onMouseLeave={() => setPostHovered(false)}
+        onClick={() => navigate(`/pin-detail/${_id}`)}
         className="relative cursor-zoom-in w-auto hover:shadow-lg rounded-lg overflow-hidden transition-all duration-500 ease-in-out"
       >
         <img

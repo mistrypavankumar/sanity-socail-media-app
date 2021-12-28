@@ -6,7 +6,7 @@ import { Sidebar, UserProfile } from "../components";
 import Pins from "./Pins";
 import { client } from "../client";
 
-import logo from "../assets/logo.png";
+import logo from "../assets/logowhite.png";
 import { userQuery } from "../utils/data";
 
 const Home = () => {
@@ -41,7 +41,7 @@ const Home = () => {
         <div className="p-2 w-full flex flex-row justify-between items-center shadow-md">
           <HiMenu
             fontSize={40}
-            className="cursor-pointer"
+            className="cursor-pointer text-primaryBlue opacity-75 hover:opacity-100 transition-opacity duration-300"
             onClick={() => setToggleSidebar(true)}
           />
           <Link to="/">
