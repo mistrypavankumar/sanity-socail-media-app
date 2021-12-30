@@ -89,9 +89,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Sanity](https://www.sanity.io/)
+* [Reactjs](https://reactjs.org/)
+* [Tailwindcss](https://tailwindcss.com/)
 
 
 
