@@ -80,7 +80,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![web-screenshot](https://user-images.githubusercontent.com/68140538/147773065-f4c40c17-51bc-4099-9396-a76d47e7d637.png)
+
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
