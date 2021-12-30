@@ -35,10 +35,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/mg143pavankumar/sanity-socail-media-app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./frontend/src/assets/logowhite.png" alt="Logo" width="20%" height="20%">
   </a>
 
-  <h3 align="center">Mg-Share</h3>
+  <h3 align="center">Share Me</h3>
 
   <p align="center">
     Socail media web application where user can share, comment and save images
@@ -112,7 +112,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/mg143pavankumar/sanity-socail-media-app.git
 ```
 2. Install NPM packages
 ```sh
@@ -133,7 +133,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/mg143pavankumar/sanity-socail-media-app/issues) for a list of proposed features (and known issues).
 
 
 
