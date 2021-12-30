@@ -134,9 +134,9 @@ Project Link: [https://github.com/mg143pavankumar/sanity-socail-media-app](https
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Tailwindcss](https://tailwindcss.com/)
+* [React Icons](https://react-icons.github.io/react-icons/)
+
 
 
 
