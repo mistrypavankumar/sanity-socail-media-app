@@ -68,7 +68,6 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -82,11 +81,12 @@
 
 ![web-screenshot](https://user-images.githubusercontent.com/68140538/147773065-f4c40c17-51bc-4099-9396-a76d47e7d637.png)
 
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
-
+This project is completely based on social media where user can,
++ upload different types of images
++ download images 
++ save images for future use
++ delete images
++ comment on images
 
 ### Built With
 
@@ -119,17 +119,6 @@ git clone https://github.com/mg143pavankumar/sanity-socail-media-app.git
 ```sh
 npm install
 ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
