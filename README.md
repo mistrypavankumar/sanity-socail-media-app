@@ -125,7 +125,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Mistry Pavan Kumar  - [@twitter_handle](https://twitter.com/mg143pavankumar) - pavansharma.mg143@gmail.com
+Mistry Pavan Kumar  - [@mg143pavankumar](https://twitter.com/mg143pavankumar) - pavansharma.mg143@gmail.com
 
 Project Link: [https://github.com/mg143pavankumar/sanity-socail-media-app](https://github.com/mg143pavankumar/sanity-socail-media-app)
 
