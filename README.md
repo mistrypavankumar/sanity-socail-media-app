@@ -144,16 +144,15 @@ Project Link: [https://github.com/mg143pavankumar/sanity-socail-media-app](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mg143pavankumar/repo.svg?style=flat-square
-[contributors-url]: https://github.com/mg143pavankumar/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mg143pavankumar/repo.svg?style=flat-square
-[forks-url]: https://github.com/mg143pavankumar/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/mg143pavankumar/repo.svg?style=flat-square
-[stars-url]: https://github.com/mg143pavankumar/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mg143pavankumar/repo.svg?style=flat-square
-[issues-url]: https://github.com/mg143pavankumar/repo/issues
-[license-shield]: https://img.shields.io/github/license/mg143pavankumar/repo.svg?style=flat-square
-[license-url]: https://github.com/mg143pavankumar/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
+[contributors-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
+[forks-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
+[stars-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
+[issues-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/issues
+[license-shield]: https://img.shields.io/github/license/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
+[license-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/mistry-pavan-kumar-5067b21b1
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/
