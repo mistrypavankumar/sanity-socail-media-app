@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mg143pavankumar/sanity-socail-media-app">
+  <a href="https://github.com/mistrypavankumar/sanity-socail-media-app">
     <img src="./frontend/src/assets/logowhite.png" alt="Logo" width="20%" height="20%">
   </a>
 
@@ -18,17 +18,17 @@
   <p align="center">
     Socail media web application where user can share, comment and save images
     <br />
-    <a href="https://github.com/mg143pavankumar/sanity-socail-media-app
+    <a href="https://github.com/mistrypavankumar/sanity-socail-media-app
 "><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mg143pavankumar/sanity-socail-media-app
+    <a href="https://github.com/mistrypavankumar/sanity-socail-media-app
 ">View Demo</a>
     ·
-    <a href="https://github.com/mg143pavankumar/sanity-socail-media-app
+    <a href="https://github.com/mistrypavankumar/sanity-socail-media-app
 /issues">Report Bug</a>
     ·
-    <a href="https://github.com/mg143pavankumar/sanity-socail-media-app
+    <a href="https://github.com/mistrypavankumar/sanity-socail-media-app
 /issues">Request Feature</a>
   </p>
 </p>
@@ -88,7 +88,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/mg143pavankumar/sanity-socail-media-app.git
+git clone https://github.com/mistrypavankumar/sanity-socail-media-app.git
 ```
 2. Install NPM packages
 ```sh
@@ -127,7 +127,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mistry Pavan Kumar  - [@mg143pavankumar](https://twitter.com/mg143pavankumar) - pavansharma.mg143@gmail.com
 
-Project Link: [https://github.com/mg143pavankumar/sanity-socail-media-app](https://github.com/mg143pavankumar/sanity-socail-media-app)
+Project Link: [https://github.com/mistrypavankumar/sanity-socail-media-app](https://github.com/mistrypavankumar/sanity-socail-media-app)
 
 
 
@@ -144,15 +144,15 @@ Project Link: [https://github.com/mg143pavankumar/sanity-socail-media-app](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
-[contributors-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
-[forks-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
-[stars-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
-[issues-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/issues
-[license-shield]: https://img.shields.io/github/license/mg143pavankumar/sanity-socail-media-app.svg?style=flat-square
-[license-url]: https://github.com/mg143pavankumar/sanity-socail-media-app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/mistrypavankumar/sanity-socail-media-app.svg?style=flat-square
+[contributors-url]: https://github.com/mistrypavankumar/sanity-socail-media-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mistrypavankumar/sanity-socail-media-app.svg?style=flat-square
+[forks-url]: https://github.com/mistrypavankumar/sanity-socail-media-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/mistrypavankumar/sanity-socail-media-app.svg?style=flat-square
+[stars-url]: https://github.com/mistrypavankumar/sanity-socail-media-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mistrypavankumar/sanity-socail-media-app.svg?style=flat-square
+[issues-url]: https://github.com/mistrypavankumar/sanity-socail-media-app/issues
+[license-shield]: https://img.shields.io/github/license/mistrypavankumar/sanity-socail-media-app.svg?style=flat-square
+[license-url]: https://github.com/mistrypavankumar/sanity-socail-media-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/
